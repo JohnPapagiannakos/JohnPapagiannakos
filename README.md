@@ -1,6 +1,6 @@
-<!-- [![Yannis Papagiannakos GitHub Banner](./assets/welcoming_gif2.gif)](https://github.com/JohnPapagiannakos) -->
+<!-- [![Yannis Papagiannakos GitHub Banner](./assets/welcoming_gif_low.gif)](https://github.com/JohnPapagiannakos) -->
 <p align="center">
-    <img src='.assets/welcoming_gif2.gif' alt="banner" width="2000"></img>
+    <img src='.assets/welcoming_gif_low.gif' alt="banner" width="2000"></img>
 </p>
 
 
@@ -28,8 +28,6 @@ I'am Yannis, a former Graduate Research Assistant at Technical University of Cre
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnPapagiannakos&repo=Mandlebrot_CUDA&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<br>
-
 <a href="https://github.com/JohnPapagiannakos/Mandlebrot_CUDA">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnPapagiannakos&repo=graphcpp&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
@@ -38,7 +36,16 @@ I'am Yannis, a former Graduate Research Assistant at Technical University of Cre
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnPapagiannakos&repo=merkletree&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
+<a href="https://github.com/JohnPapagiannakos/meteoAPI">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnPapagiannakos&repo=meteoAPI&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
 
+</a>
+
+## Contributor
+
+<a href="https://github.com/neurocom/partensor-toolbox">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=neurocom&repo=partensor-toolbox&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 ## 💼 Skills
