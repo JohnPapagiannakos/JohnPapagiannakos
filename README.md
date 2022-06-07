@@ -32,7 +32,7 @@ I'am Yannis, a former Graduate Research Assistant at Technical University of Cre
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnPapagiannakos&repo=graphcpp&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<a href="https://github.com/JohnPapagiannakos/Mandlebrot_CUDA">
+<a href="https://github.com/JohnPapagiannakos/merkletree">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnPapagiannakos&repo=merkletree&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
