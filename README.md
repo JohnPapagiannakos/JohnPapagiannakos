@@ -42,7 +42,7 @@ I'am Yannis, a former Graduate Research Assistant at Technical University of Cre
 
 </a>
 
-## Contributor
+## Contributions
 
 <a href="https://github.com/neurocom/partensor-toolbox">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=neurocom&repo=partensor-toolbox&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
