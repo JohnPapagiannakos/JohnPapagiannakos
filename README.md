@@ -8,7 +8,7 @@
 [![Repos Badge](https://badges.pufler.dev/repos/JohnPapagiannakos)](https://badges.pufler.dev)    [![Years Badge](https://badges.pufler.dev/years/JohnPapagiannakos)](https://badges.pufler.dev)   [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/jpapajohnn)   [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/yannis-marios-papagiannakos-651024204/)
 
 ## HI!
-I'am Yannis, a former Graduate Research Assistant at Technical University of Crete. I am currently looking for new job opportunities.
+I'am Yannis, a former Graduate Research Assistant at Technical University of Crete (2018-2021). I am currently looking for new job opportunities.
 
 ## &#x1f4c8; My GitHub Stats
 <br>
